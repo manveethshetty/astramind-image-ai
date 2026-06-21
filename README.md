@@ -3,7 +3,7 @@
 An AI-powered image generation tool built with Python and Streamlit. Type a prompt, choose a style, and generate AI art — powered by Hugging Face's Inference Providers and the FLUX.1-dev model.
 
 ## 🔗 Live Demo
-[Add your deployed Streamlit Cloud link here]
+[https://astramind-image-ai-qwzxymkj79k9smmk2lsgn7.streamlit.app/]
 
 ## 📸 What It Does
 
